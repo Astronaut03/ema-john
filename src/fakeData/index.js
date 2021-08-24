@@ -3,6 +3,7 @@ import cameras from './camera';
 import laptops from './laptop';
 
 const fakeData = [...androids, ...cameras, ...laptops];
+// ... androids diye shafol korteche (card shafol) jate ak akbar ak ak dhoroner content ase.
 
 
 const shuffle = a => {
